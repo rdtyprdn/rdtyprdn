@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Raditya
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me @radityapradana213@gmail.com
 
 <!---
