@@ -18,7 +18,7 @@ I'm currently actively exploring cybersecurity, data science, and back-end servi
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
-  <a href="https://django.org/"><img align="left" alt="Django" title="Django" width="21px" src="/show/373554/django.svg" /></a>
+  <a href="https://django.org/"><img align="left" alt="Django" title="Django" width="21px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" /></a>
   <a href="https://php.org/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
   <br>
